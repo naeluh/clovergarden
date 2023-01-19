@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://clovegarden.com/sitemap.xml
+Disallow: /cgi-bin/
+Disallow: /ajg/
+Disallow: /search/

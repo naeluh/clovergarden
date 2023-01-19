@@ -1,0 +1,14 @@
+body.bgc { background-color:#FFFEFA; }
+h1 { display:inline }
+h2 { display:inline }
+h3 { display:inline }
+hr.hr2 { border-top: 2px solid black }
+hr.hr2s { border-top:2px solid black; width:60%; margin:0px; align:left}
+hr.hr4 { border-top: 4px solid black }
+td.top	{vertical-align:top; }
+span.ts {font-size:150%; }
+span.tf { font-size:120%; }
+p.sm {font-size:80% }
+p.bg {font-size:115% }
+img.mrg { margin:1px 8px; border-width:0px; float:left }
+br.cll { clear:left;} 

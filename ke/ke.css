@@ -1,0 +1,36 @@
+body.bgc { background-color:#FFFEFA; }
+h1 { display:inline; }
+h1.s {display: inline; font-size:170%; }
+h2 { display:inline; }
+h2.lrg { display:inline; font-size:170%; }
+h2.h1 { display:inline; font-size:180%; }
+h3 { display:inline; font-size:1.2em; }
+h4 { display:inline; font-size:1.1em; }
+
+hr.hr2 { border-top:2px solid black; }
+hr.hr4 { border-top:4px solid black; }
+hr.hr2s { border-top:2px solid black; width:60%; margin:0px; align:left} 
+td.p2 { padding:2px; }
+td.nowrp { white-space:nowrap; }
+td.top	{vertical-align:top; }
+td.spc { width:5px }
+td.sp  { width:3px }
+td.ind { width:20px }
+td.ing { white-space:nowrap; padding:2px; }
+div.tt { display:inline; font-size:200%;}
+div.ts { display:inline; font-size:150%;}
+div.tf { display:inline; font-size:120%;}
+div.sm { display:inline; font-size:80% }
+span.bg { font-size:110% }
+span.lrg { font-size:120% }
+span.tt { font-size:200% }
+span.ts { font-size:150% }
+span.tf { font-size:130% }
+span.sm { font-size:80% }
+p.bg { font-size:110% }
+p.sm {font-size:80%}
+img.mrg { margin:1px 8px; border:0px; float:left }
+img.col { margin:1px 1px; border:0px; }
+br.cll { clear:left;} 
+table.tline { border-bottom:"2px solid black"; padding:"2px"; } 
+table.sub { padding:0px; spacing=0px; }
